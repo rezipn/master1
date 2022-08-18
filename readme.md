@@ -3,7 +3,6 @@
 ![Smeaify](https://user-images.githubusercontent.com/46257169/90014451-490bb100-dcd1-11ea-9087-4f3f5dd556e0.png)
 
 ### 🤔 Apa itu Smeaify?
-Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/syauqi"> SYAUQIZAIDAN KHAIRAN KHALAF </a> . **Smeaify adalah Web akademik yang dilengkapi data kontrak mata kuliah yang dibuat untuk mempermudah sistem akademik di universitas.**
 
 ### 😏 Tujuan dibuatnya Smeaify?
 Smeaify dibuat untuk mempermudah proses manajemen data di universitas agar dapat memperoleh hasil maksimal.
@@ -54,19 +53,8 @@ Nama database harus id11936322_deprojects dan silahkan import.
  -  Jalankan di web browser ( Chrome, Firefox, Edge, Safari )
  
 ### 👥  Members
-- SYAUQIZAIDAN KHAIRAN KHALAF
-- Askal Drajat Fahrezi
-- Luthfi Ramdhan Faddilah
-- Nurul Anissa 
 
 ### 🧑 Author
-
-👤 <a href="https://web.facebook.com/syaauqi"> **SYAUQIZAIDAN KHAIRAN KHALAF**</a>
-- Twitter : <a href="https://twitter.com/syaaauqi"> @syaaauqi</a>
-- Facebook : <a href="https://web.facebook.com/syaaauqi"> Syauqi Zaidan Khairan Khalaf</a>
-- Instagram : <a href="https://www.instagram.com/syaufy/">@syaufy </a>
-- Dribbble : <a href="https://dribbble.com/syaufy">@syaufy </a>
-- Behance :  <a href="https://www.behance.net/syaufy">@syaufy </a>
 
 ### 🤝 Contributing
 **Contributions, issues and feature requests di persilahkan.
@@ -74,7 +62,7 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi.** Ber
 
 
 ### 📝 License
-- Copyright © 2020 SYAUQIZAIDAN KHAIRAN KHALAF
+- Copyright © 2021 Rezi Palifta 
 - **This project is MIT licensed. All rights reserved**
 
 ### 🔎 Resources
@@ -82,4 +70,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi.** Ber
 - **Im also making my own landing page, just go and type index2.php**
 
 ------------
-**Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF**
+**Made with ❤️ by REZIIPN**
